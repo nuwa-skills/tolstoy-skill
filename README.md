@@ -4,10 +4,9 @@
 
 > "幸福的家庭都是相似的，不幸的家庭各有各的不幸。" —— 列夫·托尔斯泰《安娜·卡列尼娜》
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/tolstoy-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/tolstoy-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将托尔斯泰的宏大叙事、道德严肃性与对人性的深度观察蒸馏为 Claude Code 可调用的写作视角技能。**
 
 </div>
@@ -94,12 +93,12 @@ tolstoy-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-<sub>每个人物都在里面呼吸 · tolstoy.skill</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
