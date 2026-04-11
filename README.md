@@ -90,11 +90,9 @@ tolstoy-skill/
 
 ---
 
-## 更多.skill
+## 更多 Skill
 
-<!-- placeholder: 更多写作视角技能即将推出 -->
-
----
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
 ## 许可证
 
